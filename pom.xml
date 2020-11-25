@@ -11,6 +11,7 @@
 	<groupId>com.mrperfect</groupId>
 	<artifactId>AWS_EC2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>AWS_EC2</name>
 	<description>AWS_EC2</description>
 
